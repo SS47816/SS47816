@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently a PhD studnet and Engineer at NUS 🎓 
+- I’m currently a PhD Studnet and Engineer at NUS 🎓 
 - My research interests are:
   - 🦾 Robotics
   - 🚗 Autonomous Vehicles
