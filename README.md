@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently a PhD student and engineer at NUS 🎓 
+- I’m currently a PhD student and engineer @ 🎓 NUS Advanced Robotics Centre 
 - My research interests are:
   - 🦾 Robotics
   - 🚗 Autonomous Vehicles
