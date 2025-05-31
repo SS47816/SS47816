@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently a Ph.D. candidate and engineer @ 🎓 NUS Advanced Robotics Centre 
-- My research interests are:
-  - 🦾 Robotics
-  - 🚗 Autonomous Vehicles
+- 💻 I’m currently a **Postdoctoral Associate** @ **Singapore-MIT Alliance for Research and Technology (SMART)**
+- 🎓 I received my **PhD in Robotics** from the **National University of Singapore (NUS)**
+- 🦾 Research Interests: Human-AI Collaboration • Robotics • Autonomous Systems
 
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![ROS](https://img.shields.io/badge/Tools-ROS-informational?style=flat&logo=ROS&logoColor=white&color=2bbc8a)
