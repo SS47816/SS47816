@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![Pytorch](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss47816&theme=github_dark&show_icons=true&count_private=true" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ss47816&theme=github_dark&show_icons=true&count_private=true" /> -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ss47816&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
